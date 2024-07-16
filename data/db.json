@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "datetime": "July 03 2024 11:24:55 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque amet iusto soluta doloribus voluptatibus maiores beatae unde dolores ipsam? Neque eum ratione fugit aliquam facilis delectus facere est exercitationem molestiae!"
+    },
+    {
+      "id": "2",
+      "title": "My 2nd Post",
+      "datetime": "30 Aug 2024 10:15:49 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit nam atque optio est, aspernatur asperiores animi maiores dolorem id mollitia error iure aliqud praesentium inventore quos quasi dicta nostrum placeat!"
+    },
+    {
+      "id": "5",
+      "title": "My Fifth Post",
+      "datetime": "23 Nov 2024 09:45:34 PM",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod, dolor! Sunt, ipsa quaerat in impedit perspiciatis incid unt aspernatur? Voluptatibus fugit quibusdam, natus minima cum impedit illum possimus fugiat ad cupiditate!"
+    },
+    {
+      "id": "6",
+      "title": "New post",
+      "datetime": "July 16 2024 8:00:47 AM",
+      "body": "testing"
+    },
+    {
+      "id": "9",
+      "title": "wachwach",
+      "datetime": "July 16 2024 2:15:00 PM",
+      "body": "Mi Senior nafaa kuwa na deputy pedi wako anjua nina pedigree  in fact unafaa kukuwa umesimama naketi hii gava itasanya hata mamadha vibeti mwizi atakuibia walenje ukidedi mwizi anapunguza jam akidedi hizi ndio vitu marapper hawasemi kwao macareer ni pang'ang'a na deni hakuna mse anasema ukweli watu wanalipwa mapeni kamavela naona makaveli mi ni msee mwafrika people daily umeng'aria hao watu for long mpaka sa inaboo inaboo sa mpaka umeanza tu long for watu unang'aria."
+    }
+  ]
+}
